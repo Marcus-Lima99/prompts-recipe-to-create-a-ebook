@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/capa.png"
     width="400"  
 />
 </p>
@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo IA](https://leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,15 +40,18 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um titulo de um ebook sobre o trema de desenhar rostos com o método de Loomis, o ebook é do nicho de artistas desde iniciantes até avançado, o título deve ser curto e direto, possuindo uma temática de Star wars no título, me liste 5 variações de titulos.|
+| conteúdo | Escreva um texto descrevendo o que é o método Loomis para o desenho de rostos, sendo o texto escrito como se fosse feito por um metre jedi para seus padawans. Gostaria que o tom utilizado na escrita fosse de da forma mais clara para que uma pesso pode-se aprender sobre o assunto.
+|
 
 
-Midjourney：
+Leonardo IA：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A rendering of Darth Vader's iconic helmet, meticulously illustrated in the style of Leonardo da Vinci's Renaissance-era sketches, with bold, expressive lines and subtle sfumato shading, set against a warm, beige-toned paper background, with hints of gentle, aged wear, as if plucked from the pages of a 15th-century manuscript, the helmet's gleaming-black surface adorned with intricate, hand-drawn patterns and flourishes, while the artist's tools, a scattering of graphite pencils, inkwells, and quills, lie nearby, waiting to bring this Star Wars masterpiece to life in vivid, earthy tones of umber, sienna, and ochre.
+
+
 
 ## ✨ Features
 
@@ -60,33 +63,29 @@ Midjourney：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
+## 👨‍💻 Aluno
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://media.licdn.com/dms/image/v2/D4D03AQGGvqGkbcJmJw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708785503461?e=1738195200&v=beta&t=qGzKj3rb2GmVaVPZcmW86Y2IM6E1Wf96lLajsAeke3w"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbsp Marcus Vinícius Marques de Lima<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    Engenheiro Elétrico &nbsp;|&nbsp Desenvolvedor<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/Marcus-Lima99">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/marcusviniciuslima/">
+        LinkedIn
+    </a>
 </p>
 <br/><br/>
 <p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
